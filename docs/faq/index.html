@@ -1,0 +1,61 @@
+---
+title: FAQ
+faq:
+    - q: What is this?
+      a: |
+        A search engine for people and organizations.
+
+    - q: Why?
+      a: |
+        With the advent of the Fediverse and the proliferation of places where people
+        are posting, it is difficult to find someone.
+
+    - q: How?
+      a: |
+        For the initial version, I am loading seed data from various sources and creating a search engine.
+        Longer term, people will be able to login and create/update their own profiles.  And delete them, if
+        they don't want to be found.
+
+    - q: How will it complete with `$BIGCOMPANY` ?
+      a: |
+        * The social neworks (Facebook, Twitter et al) don't want you to search for people
+        outside their walled gardens.
+        * Google is too big and too full of noise.  And too hard to update.
+        * The Fediverse is fragmented (by design!) and doesn't have a unified search.
+
+        I am planning on doing direct comparisons with various related projects.
+
+    - q: Isn't this a privacy nightmare?
+      a: |
+        This is specifically focused on *public* identities.  It is right there in the name!
+
+        I do not want to expose private information: I am only loading the seed data from publicly available sources, I hope to transition to a model where people create their
+        own profiles.
+
+    - q: Can I opt-out?
+      a: |
+        Absolutely!  One of the first features will be a way for you to hide or delete your profile.  For the moment, you need to [contact me](/contact.html).
+
+    - q: Where does the data come from?
+      a: |
+        I will be blogging as I load data from various sources.
+
+    - q: Who is behind this?
+      a: |
+        Just [me](https://andrew.marcuse.info/) at the moment.  I would love some help though!
+
+    - q: What does PIDO stand for?
+      a: |
+        Public Identity Dot Org.  I am too lazy to type it out every time.
+
+    - q: Why is the icon a pie?
+      a: |
+        "PIDO" is a homophone for "pie dough".
+---
+
+{% for faq in page.faq %}
+<h4 class="mt-4 mb-2">{{faq.q | markdownify | replace: "<p>", "" | replace: "</p>", ""}}</h4>
+<div class="ms-4">
+{{faq.a | markdownify}}
+</div>
+{% endfor %}

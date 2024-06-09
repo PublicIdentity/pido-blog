@@ -1,0 +1,19 @@
+#
+# _config.yml for publicidentity.org
+#
+
+exclude: [ "CNAME" ]
+permalink: /blog/:year/:year-:month-:day-:slug:output_ext
+production_url: https://www.publicidentity.org
+title : Public Identity
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
+redirect_from:
+  json: false
+theme: null
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

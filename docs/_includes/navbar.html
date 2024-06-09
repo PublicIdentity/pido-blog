@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand navbar-light bg-light border-bottom">
+	<div class="container">
+		<a class="navbar-brand text-secondary fw-bold" href="/">
+			<img src="/favicon.svg" alt="Logo" height="24" class="d-inline-block align-text-top me-1">
+			Public Identity</a>
+		<div class="justify-content-end">
+			<ul class="navbar-nav mt-2 mt-lg-0">
+				<li class="d-none d-md-inline nav-item">
+					<a class="nav-link{% if page.url == "/"%} active fw-semibold{%endif%}" href="/index.html">Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link{% if page.url contains "/blog/"%} active fw-semibold{%endif%}" href="/blog/">
+						<img alt="Blog" class="fa d-sm-none" src="/images/fa/rss.svg" />
+						<span class="d-none d-sm-inline">Blog</span>
+					</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link{% if page.url contains "/faq/"%} active fw-semibold{%endif%}" href="/faq/">
+						<img alt="FAQ" class="fa d-sm-none" src="/images/fa/question-circle.svg" />
+						<span class="d-none d-sm-inline">FAQ</span>
+					</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link{% if page.url == "/contact.html"%} active fw-semibold{%endif%}" href="/contact.html">
+						<img alt="Contact" class="fa d-sm-none" src="/images/fa/comment-regular.svg" />
+						<span class="d-none d-sm-inline">Contact</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>

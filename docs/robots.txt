@@ -1,0 +1,13 @@
+---
+# Remember to set production_url in your _config.yml file!
+title: Robots.txt
+noindex: true
+---
+#
+# robots.txt for publicidentity.org
+#
+
+Sitemap: {{site.production_url}}/sitemap.xml
+
+User-agent: *
+Allow: /

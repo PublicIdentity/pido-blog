@@ -1,0 +1,12 @@
+*~
+.DS_Store
+*.env
+foo
+Gemfile.lock
+.idea/
+.jekyll-metadata
+_site/
+*.swp
+*.tgz
+tmp*
+*.tmp

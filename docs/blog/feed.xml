@@ -1,0 +1,40 @@
+---
+# Remember to set production_url in your _config.yml file!
+title: RSS Feed
+noindex: true
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="data:text/xsl;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48eHNsOnN0eWxlc2hlZXQgdmVyc2lvbj0iMy4wIiB4bWxuczp4c2w9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvWFNML1RyYW5zZm9ybSIgeG1sbnM6YXRvbT0iaHR0cDovL3d3dy53My5vcmcvMjAwNS9BdG9tIj48eHNsOm91dHB1dCBtZXRob2Q9Imh0bWwiIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04IiBpbmRlbnQ9InllcyIvPjx4c2w6dGVtcGxhdGUgbWF0Y2g9Ii8iPjx4c2w6dmFyaWFibGUgbmFtZT0ib3duZXJfdXJsIj48eHNsOnZhbHVlLW9mIHNlbGVjdD0iL3Jzcy9jaGFubmVsL2xpbmsiLz48L3hzbDp2YXJpYWJsZT48aHRtbD48aGVhZD48bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiLz48bWV0YSBuYW1lPSJyZWZlcnJlciIgY29udGVudD0idW5zYWZlLXVybCIvPjx0aXRsZT48eHNsOnZhbHVlLW9mIHNlbGVjdD0iL3Jzcy9jaGFubmVsL3RpdGxlIi8+PC90aXRsZT48bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vd3d3LmZlZWQuc3R5bGUvY3NzL3dhdGVyLm1pbi5jc3MiLz48L2hlYWQ+PGJvZHk+PGgxPjxpbWcgYWx0PSJmZWVkIGljb24iIHNyYz0iaHR0cHM6Ly93d3cudmVjdG9ybG9nby56b25lL2xvZ29zL3Jzcy9yc3MtdGlsZS5zdmciIHN0eWxlPSJoZWlnaHQ6MWVtO3ZlcnRpY2FsLWFsaWduOm1pZGRsZTsiLz4mI3hhMDs8eHNsOnZhbHVlLW9mIHNlbGVjdD0iL3Jzcy9jaGFubmVsL3RpdGxlIi8+PC9oMT48cD48eHNsOnZhbHVlLW9mIHNlbGVjdD0iL3Jzcy9jaGFubmVsL2Rlc2NyaXB0aW9uIi8+PC9wPjxwPlRoaXMgaXMgdGhlIFJTUyYjeGEwOzxhIGhyZWY9Imh0dHBzOi8vd3d3LmZlZWQuc3R5bGUvd2hhdC1pcy1hLWZlZWQuaHRtbCI+bmV3cyBmZWVkPC9hPiYjeGEwO2ZvciB0aGUmI3hhMDs8YT48eHNsOmF0dHJpYnV0ZSBuYW1lPSJocmVmIj48eHNsOnZhbHVlLW9mIHNlbGVjdD0iL3Jzcy9jaGFubmVsL2xpbmsiLz48L3hzbDphdHRyaWJ1dGU+PHhzbDp2YWx1ZS1vZiBzZWxlY3Q9Ii9yc3MvY2hhbm5lbC90aXRsZSIvPjwvYT4mI3hhMDsKd2Vic2l0ZS48L3A+PHA+SXQgaXMgbWVhbnQgZm9yJiN4YTA7PGEgaHJlZj0iaHR0cHM6Ly93d3cuZmVlZC5zdHlsZS9uZXdzcmVhZGVycy5odG1sIj5uZXdzIHJlYWRlcnM8L2E+LCBub3QgaHVtYW5zLiBQbGVhc2UgY29weS1hbmQtcGFzdGUgdGhlIFVSTCBpbnRvIHlvdXIgbmV3cyByZWFkZXIhPC9wPjxwPjxwcmU+PGNvZGUgaWQ9ImZlZWR1cmwiPjx4c2w6dmFsdWUtb2Ygc2VsZWN0PSIvcnNzL2NoYW5uZWwvYXRvbTpsaW5rL0BocmVmIi8+PC9jb2RlPjwvcHJlPjxidXR0b24gY2xhc3M9ImNsaXBib2FyZCIgZGF0YS1jbGlwYm9hcmQtdGFyZ2V0PSIjZmVlZHVybCI+CkNvcHkgdG8gY2xpcGJvYXJkPC9idXR0b24+PC9wPjx4c2w6Zm9yLWVhY2ggc2VsZWN0PSIvcnNzL2NoYW5uZWwvaXRlbSI+PGRldGFpbHM+PHN1bW1hcnk+PGE+PHhzbDphdHRyaWJ1dGUgbmFtZT0iaHJlZiI+PHhzbDp2YWx1ZS1vZiBzZWxlY3Q9ImxpbmsiLz48L3hzbDphdHRyaWJ1dGU+PHhzbDp2YWx1ZS1vZiBzZWxlY3Q9InRpdGxlIi8+PC9hPiYjeGEwOy0mI3hhMDs8eHNsOnZhbHVlLW9mIHNlbGVjdD0icHViRGF0ZSIvPjwvc3VtbWFyeT48eHNsOnZhbHVlLW9mIHNlbGVjdD0iZGVzY3JpcHRpb24iIGRpc2FibGUtb3V0cHV0LWVzY2FwaW5nPSJ5ZXMiLz48L2RldGFpbHM+PC94c2w6Zm9yLWVhY2g+PHA+PHhzbDp2YWx1ZS1vZiBzZWxlY3Q9ImNvdW50KC9yc3MvY2hhbm5lbC9pdGVtKSIvPiBuZXdzIGl0ZW1zLjwvcD48cD48c21hbGw+UG93ZXJlZCBieTxhIGhyZWY9Imh0dHBzOi8vd3d3LmZlZWQuc3R5bGUvIj48aW1nIHJlZmVycmVycG9saWN5PSJvcmlnaW4iIHNyYz0iaHR0cHM6Ly93d3cuZmVlZC5zdHlsZS9mYXZpY29uLnN2ZyIgc3R5bGU9ImhlaWdodDoxZW07cGFkZGluZy1yaWdodDowLjI1ZW07dmVydGljYWwtYWxpZ246bWlkZGxlOyIvPkZlZWQuU3R5bGU8L2E+PC9zbWFsbD48L3A+PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9ucG0vY2xpcGJvYXJkQDIuMC4xMS9kaXN0L2NsaXBib2FyZC5taW4uanMiLz48c2NyaXB0PgpuZXcgQ2xpcGJvYXJkSlMoJy5jbGlwYm9hcmQnKTs8L3NjcmlwdD48L2JvZHk+PC9odG1sPjwveHNsOnRlbXBsYXRlPjwveHNsOnN0eWxlc2hlZXQ+" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="{{site.production_url}}/blog/feed.xml" rel="self" type="application/rss+xml" />
+        <copyright>Copyright © 2024 by Andrew Marcuse<!-- COPYRIGHTYEAR --></copyright>
+        <description>{{site.title}} Blog</description>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Jekyll {{site.github.versions.jekyll | default: site.data.jekyll_version | default: '(unknown)'}}</generator>
+        <image>
+            <link>{{site.production_url}}/blog/</link>
+            <title>{{site.title}}</title>
+            <url>{{site.production_url}}/favicon.png</url>
+        </image>
+        <language>en</language>
+        <lastBuildDate>{{site.time|date: "%a, %d %b %Y %T +0000"}}</lastBuildDate>
+        <link>{{site.production_url}}/</link>
+        <managingEditor>fileformat@gmail.com (Andrew Marcuse)</managingEditor>
+        <pubDate>{{site.time|date: "%a, %d %b %Y %T +0000"}}</pubDate>
+        <title>{{site.title}}</title>
+        <ttl>{% comment %} 1440 = 1 day {% endcomment %}1440</ttl>
+        <webMaster>fileformat@gmail.com (Andrew Marcuse)</webMaster>
+{%- for post in site.posts %}
+        <item>
+            {%- comment %}LATER: not always html :( <description>{{thePage.content | strip_newlines | xml_escape }}</description>{%- endcomment %}
+            <guid>{{site.production_url}}/{{post.date}}</guid>
+            <link>{{site.production_url}}/{{post.url}}</link>
+            <pubDate>{{ post.date | date: "%a, %d %b %Y %T -0600" }}</pubDate>
+            <title>{{post.title}}</title>
+            <description><![CDATA[{{post.content}}]]></description>
+        </item>
+{%- endfor %}
+    </channel>
+</rss>
