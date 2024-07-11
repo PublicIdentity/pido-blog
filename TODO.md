@@ -10,6 +10,7 @@
 - [ ] vs [blue pages](https://en.wikipedia.org/wiki/Blue_pages)
 - [ ] vs Fediverse
 - [ ] vs social networks
+- [ ] vs `.tel` TLD
 - [ ] monetization: pay to contact
 - [ ] categories
 - [ ] tags

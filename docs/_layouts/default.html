@@ -23,6 +23,17 @@
 			{% endfor %}
 		</div></div>
 		{% endif %}
+        {% if page.collection == "posts" %}
+        <div class="row pt-3 fw-light fs-6">
+            <div class="col  d-flex justify-content-center">{% if page.previous -%}
+                <a class="text-decoration-none" href="{{page.previous.url}}">&lt; {{ page.previous.title }}</a>
+            {%- endif %}
+            {% if page.next -%}
+                {% if page.previous -%}<span class="px-2">|</span>{% endif %}
+                <a class="text-decoration-none" href="{{page.next.url}}">{{ page.next.title }} &gt;</a>
+            {%- endif %}</div>
+        </div>
+        {% endif %}
 		<hr>
 		{% include footer.html %}
 	</div><!--/container-->
