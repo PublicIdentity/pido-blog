@@ -9,7 +9,7 @@ h1: Tags
         {% assign sorted_tags = site.tags | sort %}
         {% for tag in sorted_tags %}
         <tr>
-            <td><a class="badge text-bg-secondary" href="?tag={{tag[0]}}">{{tag[0]}}</a></td>
+            <td><a class="badge text-bg-secondary" href="?tag={{tag[0]}}">{{tag[0] | replace: "_", " "}}</a></td>
             <td class="w-100"><details id="{{tag[0]}}">
                 <summary>{{ tag[1] | size }}</summary>
                 {% assign sorted_posts = tag[1] | sort: 'title' %}

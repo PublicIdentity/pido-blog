@@ -19,7 +19,7 @@
 		{% if tagsize > 0 %}
 		<div class="row"><div class="col"> Tags:
 			{% for tag in page.tags %}
-			<a href="/blog/tags.html?tag={{tag}}" class="badge  text-bg-secondary">{{tag}}</a>
+			<a href="/blog/tags.html?tag={{tag}}" class="badge  text-bg-secondary">{{tag | replace: "_", " "}}</a>
 			{% endfor %}
 		</div></div>
 		{% endif %}

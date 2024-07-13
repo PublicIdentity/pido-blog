@@ -7,4 +7,8 @@ set -o errexit
 set -o pipefail
 set -o nounset
 
-jekyll serve --watch --source docs --port 4000
+jekyll serve \
+    --future \
+    --port 4000 \
+    --source docs \
+    --watch

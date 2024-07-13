@@ -11,11 +11,13 @@
 - [ ] vs Fediverse
 - [ ] vs social networks
 - [ ] vs `.tel` TLD
+- [ ] handles: none by default, monetize
 - [ ] monetization: pay to contact
 - [ ] categories
 - [ ] tags
 - [ ] badges
 - [ ] data model
+- [ ] i18n
 - [ ] how to store location data
 - [ ] parent/child?  Or full graph w/multiple relationships?
 - [ ] support loading from a `.wellknown/publicidentity.json`
@@ -41,8 +43,8 @@ identitybase
 - ?keywords/aka's?
 
 identitylink
-- title
-- service
+- servicename
+- serviceid
 - url
 
 identitylocation
