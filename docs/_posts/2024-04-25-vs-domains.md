@@ -1,7 +1,7 @@
 ---
 title: Domain Names Comparison
 h1: Comparing PublicIdentity.org with domain names
-tags: [ comparison, sizing, proofs ]
+tags: [ comparison, sizing ]
 ---
 
 Domain names are a key part of how the internet works.

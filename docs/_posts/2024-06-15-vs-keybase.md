@@ -1,7 +1,7 @@
 ---
 title: Keybase Comparison
 h1: Comparing PublicIdentity.org with Keybase
-tags: [ comparison, seed, proofs ]
+tags: [ comparison, crypto, keys, seed, verification ]
 ---
 
 [Keybase.io](https://keybase.io/) is a service/website focused on private communication/sharing based on public/private key shared.
@@ -21,6 +21,29 @@ Part of the service is claiming identities at various services.
 * Wants to install a client app.
 * [Acquired by Zoom](https://keybase.io/blog/keybase-joins-zoom) in May 2020 and has been very quiet since then.
 * At one point they had a way to add a new service to the list of places where you could verify, but the documentation link is no longer valid.
+
+## Current verified fields
+
+* Website - multiple allowed, verify via DNS or `/keybase.txt` file
+* Twitter - via tweet
+* Github - via gist
+* Reddit
+* Hacker News
+* In a "more" submenu:
+    - omg.lol
+    - DMOJ: Modern Online Judge
+    - Lobste.rs
+    - Quantum Resistant Ledger
+    - Galactic Talk
+    - LinkPool Market
+    - Tac Social
+    - LFG Directory
+
+They also have:
+
+* PGP Key
+* Bitcoin address
+* Zcash address
 
 ## Notes
 

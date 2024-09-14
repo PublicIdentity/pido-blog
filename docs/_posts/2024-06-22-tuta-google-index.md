@@ -1,6 +1,7 @@
 ---
 h1: "Google's indexing of Tuta"
 title: "Google's deindexing/reindexing of Tuta"
+tags: [ google ]
 ---
 
 [Tuta](https://www.tuta.com) is a privacy-focused email provider and direct competitor to GMail.
