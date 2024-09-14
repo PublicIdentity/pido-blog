@@ -1,6 +1,6 @@
-# PublicIdentity.org [<img alt="PIDO Logo" src="docs/favicon.svg" height="90" align="right"/>](https://www.publicidentity.org/)
+# PublicIdentity.org Blog [<img alt="PIDO Logo" src="docs/favicon.svg" height="90" align="right"/>](https://blog.publicidentity.org/)
 
-[![pages-build-deployment](https://github.com/VectorLogoZone/pido/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/VectorLogoZone/pido/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/PublicIdentity/pido-blog/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/PublicIdentity/pido-blog/actions/workflows/pages/pages-build-deployment)
 
 ## Credits
 

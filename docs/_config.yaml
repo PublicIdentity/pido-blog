@@ -4,7 +4,7 @@
 
 exclude: [ "CNAME" ]
 permalink: /blog/:year/:year-:month-:day-:slug:output_ext
-production_url: https://www.publicidentity.org
+production_url: https://blog.publicidentity.org
 title : Public Identity
 markdown: kramdown
 plugins:
