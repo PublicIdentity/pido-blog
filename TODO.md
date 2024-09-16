@@ -10,6 +10,8 @@
 - [ ] vs [blue pages](https://en.wikipedia.org/wiki/Blue_pages)
 - [ ] vs Fediverse
 - [ ] vs social networks
+- [ ] vs [ORCID](https://orcid.org/)
+- [ ] Google Scholar
 - [ ] vs `.tel` TLD
 - [ ] handles: none by default, monetize
 - [ ] monetization: pay to contact
@@ -33,19 +35,6 @@
 - have a "last updated" for each identity.
 	- store etag/md5sum/last-modified header/last-modified element
 	- how to update?
-
-identitybase
-- title
-- sortInput
-- sort
-- disambiguation
-- ?base category?
-- ?keywords/aka's?
-
-identitylink
-- servicename
-- serviceid
-- url
 
 identitylocation
 - center
