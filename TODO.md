@@ -8,6 +8,7 @@
 ## Posts
 
 - [ ] vs [blue pages](https://en.wikipedia.org/wiki/Blue_pages)
+- [ ] [Webfinger](https://www.packetizer.com/ws/webfinger/)
 - [ ] vs Fediverse
 - [ ] vs social networks
 - [ ] vs [ORCID](https://orcid.org/)
