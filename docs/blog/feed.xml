@@ -20,7 +20,7 @@ layout: none
         </image>
         <language>en</language>
         <lastBuildDate>{{site.time|date: "%a, %d %b %Y %T +0000"}}</lastBuildDate>
-        <link>{{site.production_url}}/</link>
+        <link>{{site.production_url}}/blog/</link>
         <managingEditor>fileformat@gmail.com (Andrew Marcuse)</managingEditor>
         <pubDate>{{site.time|date: "%a, %d %b %Y %T +0000"}}</pubDate>
         <title>{{site.title}}</title>
