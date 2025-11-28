@@ -24,4 +24,4 @@ to find the phone number of someone we wanted to call.  The phone books were div
 
 This is directly comparable to what I want to build.  I wouldn't monetize opt-out, maybe I could charge for a **bold** listing.
 
-* In the United Statues, the term "yellow pages" is generic and not trademarked.  The [Thryv](https://www.thryv.com/about/) (owners of the yellowpages.com](https://www.yellowpages. com/) domain) has the trademark on "The Real Yellow Pages".
+* In the United Statues, the term "yellow pages" is generic and not trademarked.  The [Thryv](https://www.thryv.com/about/) (owners of the [yellowpages.com](https://www.yellowpages.com/) domain) has the trademark on "The Real Yellow Pages".
